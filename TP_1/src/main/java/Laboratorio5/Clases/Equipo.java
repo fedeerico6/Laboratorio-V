@@ -46,7 +46,7 @@ public class Equipo {
         }
     }
 
-    public void combatir(List<Humano> visitantes){
+    public void combatir(List<Humano> visitantes, Humano jefe){
         Boolean flag = true;
         while (flag){
             Random r = new Random();
@@ -91,15 +91,42 @@ public class Equipo {
                     System.out.println("GANO: " + local.toString());
                     BaseDeDatos.insertar(local.getNombre(),sumaLocal);
                     BaseDeDatos.leer();
+                    this.combateConElJefeTaberna(jefe,sumaLocal,local);
                 } else {
                     System.out.println("GANO: " + visitante.toString());
                     BaseDeDatos.insertar(visitante.getNombre(),sumaVisitante);
                     BaseDeDatos.leer();
+                    this.combateConElJefeTaberna(jefe,sumaVisitante,visitante);
                 }
             }
 
         }
 
+    }
+
+    public void combateConElJefeTaberna(Humano jefe,Integer suma, Humano luchador){
+        Random r = new Random();
+        Integer bebidaluchador, orinaluchador, bebidajefe, orinajefe;
+        if(luchador instanceof Vikingo){
+            bebidaluchador = luchador.getBeber(((Vikingo) luchador).getExtra());
+            orinaluchador = luchador.getOrinar(r.nextInt(50));
+        } else {
+            bebidaluchador = luchador.getBeber(r.nextInt(50));
+            orinaluchador = luchador.getOrinar(((Espartano) luchador).getExtra());
+        }
+
+        bebidajefe = jefe.getBeber(((JefeTaberna) jefe).getBebedorProfesional());
+        orinajefe = jefe.getOrinar(((JefeTaberna) jefe).getToleranciaExtra());
+
+        Integer sumaLuchador, sumaJefe;
+        sumaLuchador = bebidaluchador + orinaluchador;
+        sumaJefe = bebidajefe + orinajefe;
+
+        if(sumaJefe >= sumaLuchador){
+            System.out.println("Gano el dueñio de la taberna" + jefe.toString() );
+        } else {
+            System.out.println("Gano el luchador " + luchador.toString());
+        }
     }
 
 

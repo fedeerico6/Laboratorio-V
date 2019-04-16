@@ -12,8 +12,8 @@ public class Espartano extends Humano{
         toleranciaExtra = null;
     }
 
-    public Espartano(String nombre, Integer edad, Integer peso, Iorinar orinar, Ibeber beber,Integer toleranciaExtra) {
-        super(nombre, edad, peso, orinar, beber);
+    public Espartano(String nombre, Integer edad, Integer peso,Integer toleranciaExtra) {
+        super(nombre, edad, peso, new OrinarEspartanoImp(), new BeberEspartanoImp());
         this.toleranciaExtra = toleranciaExtra;
     }
 

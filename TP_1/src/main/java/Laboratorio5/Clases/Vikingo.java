@@ -12,8 +12,8 @@ public class Vikingo extends Humano {
         this.bebedorProfesional = null;
     }
 
-    public Vikingo(String nombre, Integer edad, Integer peso, Iorinar orinar, Ibeber beber, Integer bebedorProfesional) {
-        super(nombre, edad, peso, orinar, beber);
+    public Vikingo(String nombre, Integer edad, Integer peso, Integer bebedorProfesional) {
+        super(nombre, edad, peso, new OrinarVikingoImp(), new BeberVikingoImp());
         this.bebedorProfesional = bebedorProfesional;
     }
 
