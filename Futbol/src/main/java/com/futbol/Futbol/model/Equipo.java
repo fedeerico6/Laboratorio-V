@@ -8,6 +8,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
+import javax.validation.constraints.NotNull;
 import java.util.List;
 
 @Entity
@@ -19,6 +20,7 @@ public class Equipo {
     @Id
     @GeneratedValue
     private Integer id;
+    @NotNull(message = "El nombre del jugador no puede ser null")
     private String nombre;
     @OneToMany()
     private List<Jugador> jugadores;
