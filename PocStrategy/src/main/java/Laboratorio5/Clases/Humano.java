@@ -3,6 +3,8 @@ package Laboratorio5.Clases;
 import Laboratorio5.Interfaces.Ibeber;
 import Laboratorio5.Interfaces.Iorinar;
 
+import java.util.Objects;
+
 public class Humano {
 
     private String nombre;
@@ -75,4 +77,6 @@ public class Humano {
                 ", peso=" + peso +
                 '}';
     }
+
+
 }

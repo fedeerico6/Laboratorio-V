@@ -44,12 +44,6 @@ public class ListEvents {
         Optional<Event> event = events.stream()
                                 .filter(e->e.getId() == id)
                                 .findFirst();
-        /*if(event.isPresent()){
-            Event evento = event.isPresent();
-            return evento;
-        } else {
-            return null;
-        }*/
 
         return event.isPresent() ? event.get() : null;
     }

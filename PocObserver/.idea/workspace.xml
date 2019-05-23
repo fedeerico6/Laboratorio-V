@@ -2,7 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d36cc1a3-c927-4788-ae40-5eb1d4954ffe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/libraries/mysql_connector_java_5_1_15_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/libraries/mysql_connector_java_5_1_15_bin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/JDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/App/ConectarMysql.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/App/ConectarMysql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/App/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/App/Equipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/App/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/App/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/Optional_Builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/Optional_Builder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/ListEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/ListEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PocObserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PocObserver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/Mecanico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/Mecanico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/Taller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/Taller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lav5/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lav5/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/TP_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/TP_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/TP_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/basededatos.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/basededatos.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberEspartanoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberEspartanoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberVikingoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberVikingoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Equipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Espartano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Espartano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Humano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Humano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/JefeTaberna.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/JefeTaberna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarEspartanoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarEspartanoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarVikingoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarVikingoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Vikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Vikingo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Ibeber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Ibeber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Iorinar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Iorinar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/BaseDeDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/BaseDeDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/Conectar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/Conectar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/test/java/Laboratorio5/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/test/java/Laboratorio5/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/PocThreads.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/PocThreads.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Winner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Winner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/Connect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WinnerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WinnerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WordDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WordDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocThreads/src/test/java/Laboratorio/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/test/java/Laboratorio/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Poc_Stream/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc_Stream/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Poc_Stream/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc_Stream/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Poc_Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc_Stream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,35 +102,49 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Lav/App.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Auto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="-30">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Mecanico.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Taller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lav/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -86,8 +189,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="width" value="1336" />
+    <option name="height" value="686" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -95,7 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,11 +236,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -188,24 +293,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="737" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19772728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
@@ -213,14 +313,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -241,71 +347,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Clases.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Clases.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
-          <folding>
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#917#918#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1256#1257#0" expanded="true" />
-            <element signature="e#1418#1419#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Mecanico.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Taller.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lav/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lav/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Taller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

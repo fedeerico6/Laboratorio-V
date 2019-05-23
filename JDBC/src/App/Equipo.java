@@ -36,15 +36,15 @@ public class Equipo {
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof Equipo)) return false;
+        if (o == null || getClass() != o.getClass()) return false;
         Equipo equipo = (Equipo) o;
-        return getId_equipo().equals(equipo.getId_equipo()) &&
-                getNombre().equals(equipo.getNombre());
+        return Objects.equals(id_equipo, equipo.id_equipo) &&
+                Objects.equals(nombre, equipo.nombre);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getId_equipo(), getNombre());
+        return Objects.hash(id_equipo, nombre);
     }
 
     @Override
