@@ -22,6 +22,7 @@ public class JugadorController {
         Equipo e = equipoController.getEquipoById(idEquipo);
         j.setEquipo(e);
         jugadorRepository.save(j);
+        equipoController.addJugador(idEquipo,j);
     }
 
     @GetMapping("")

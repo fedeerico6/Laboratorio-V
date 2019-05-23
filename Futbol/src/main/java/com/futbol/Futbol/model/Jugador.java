@@ -1,5 +1,7 @@
 package com.futbol.Futbol.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -25,7 +27,7 @@ public class Jugador {
     @Max(value =34, message = "El jugador es un viejo choto, que se retire")
     private Integer edad;
 
-    @ManyToOne(fetch = FetchType.LAZY)
+    @ManyToOne()
     @JoinColumn(name = "equipo_id", referencedColumnName = "id")
     private Equipo equipo;
 

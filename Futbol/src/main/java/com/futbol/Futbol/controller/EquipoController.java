@@ -1,6 +1,7 @@
 package com.futbol.Futbol.controller;
 
 import com.futbol.Futbol.model.Equipo;
+import com.futbol.Futbol.model.Jugador;
 import com.futbol.Futbol.service.IEquipoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -29,5 +30,12 @@ public class EquipoController {
     public Equipo getEquipoById(@PathVariable final Integer id)  {
         return equipoRepository.findById(id)
                .orElseThrow(() -> new HttpClientErrorException(HttpStatus.BAD_REQUEST, String.format("No exsiste el equipo con el id", id)));
+    }
+
+    @GetMapping("{id_equipo}/jugador")
+    public void addJugador(@PathVariable final Integer id_equipo, @RequestBody Jugador j) {
+        Equipo equipo = this.getEquipoById(id_equipo);
+        equipo.addJugador(j);
+        this.equipoRepository.save(equipo);
     }
 }
