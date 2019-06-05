@@ -29,9 +29,10 @@ public class Jugador {
 
     @ManyToOne()
     @JoinColumn(name = "equipo_id", referencedColumnName = "id")
+    @JsonIgnore
     private Equipo equipo;
 
-    public void setEquipo(Equipo e) {
+    /*public void setEquipo(Equipo e) {
         equipo = e;
-    }
+    }*/
 }

@@ -1,98 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d36cc1a3-c927-4788-ae40-5eb1d4954ffe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/libraries/mysql_connector_java_5_1_15_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/libraries/mysql_connector_java_5_1_15_bin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/JDBC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/src/App/ConectarMysql.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/App/ConectarMysql.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/src/App/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/App/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/src/App/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/App/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/Optional_Builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/Optional_Builder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/ListEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/ListEvents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Clases/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Optional_Builder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Optional_Builder/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PocObserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PocObserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/Mecanico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/Mecanico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lav/Taller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lav/Taller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lav5/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lav5/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/TP_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/TP_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/TP_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/basededatos.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/basededatos.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberEspartanoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberEspartanoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberVikingoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/BeberVikingoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Equipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Espartano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Espartano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Humano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Humano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/JefeTaberna.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/JefeTaberna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarEspartanoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarEspartanoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarVikingoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/OrinarVikingoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Vikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Clases/Vikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Ibeber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Ibeber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Iorinar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/Interfaces/Iorinar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/BaseDeDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/BaseDeDatos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/Conectar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/main/java/Laboratorio5/JDBC/Conectar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocStrategy/src/test/java/Laboratorio5/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocStrategy/src/test/java/Laboratorio5/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/PocThreads.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/PocThreads.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Winner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Winner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/Clases/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/Connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/Connect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WinnerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WinnerDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WordDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/main/java/Laboratorio/JDBC/WordDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PocThreads/src/test/java/Laboratorio/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PocThreads/src/test/java/Laboratorio/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Poc_Stream/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc_Stream/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Poc_Stream/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc_Stream/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Poc_Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc_Stream/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d36cc1a3-c927-4788-ae40-5eb1d4954ffe" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Auto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -118,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Mecanico.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="105">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -198,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,6 +145,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,9 +203,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="737" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19772728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20075758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,14 +258,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Clases.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
+        <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Lav/Mecanico.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
