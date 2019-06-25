@@ -7,10 +7,12 @@ import com.parcial.primerparcial.repository.IUsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.HttpClientErrorException;
 
 import java.util.List;
+import java.util.concurrent.CompletableFuture;
 
 import static java.util.Objects.isNull;
 
@@ -66,5 +68,16 @@ public class UsuarioController {
         publicacionRepository.save(publicacion);
         usuario.getPublicaciones().add(publicacion);
         usuarioRepository.save(usuario);
+    }
+
+    @Async("Executor")
+    CompletableFuture<List<Usuario>> getAllSync() {
+        try{
+            Thread.sleep(2000);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        List<Usuario> usuarios = usuarioRepository.findAll();
+        return CompletableFuture.completedFuture(usuarios);
     }
 }

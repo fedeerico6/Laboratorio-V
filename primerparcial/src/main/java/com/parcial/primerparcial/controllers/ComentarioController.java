@@ -2,15 +2,18 @@ package com.parcial.primerparcial.controllers;
 
 import com.parcial.primerparcial.domains.Comentario;
 import com.parcial.primerparcial.domains.Publicacion;
+import com.parcial.primerparcial.domains.Usuario;
 import com.parcial.primerparcial.repository.IComentarioRepository;
 import com.parcial.primerparcial.repository.IPublicacionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.HttpClientErrorException;
 
 import java.util.List;
+import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
 
 @RestController
@@ -51,5 +54,16 @@ public class ComentarioController {
     @Scheduled(fixedRateString = "${time}")
     public void schuled() {
         comentarioRepository.deleteAll();
+    }
+
+    @Async("Executor")
+    CompletableFuture<List<Comentario>> getAllSync() {
+        try{
+            Thread.sleep(2000);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        List<Comentario> comentarios = comentarioRepository.findAll();
+        return CompletableFuture.completedFuture(comentarios);
     }
 }
