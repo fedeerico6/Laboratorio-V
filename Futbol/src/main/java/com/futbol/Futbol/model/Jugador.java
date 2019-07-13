@@ -10,11 +10,13 @@ import javax.persistence.*;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
+import java.util.List;
 
 @Entity
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
+@Table(name = "jugadores")
 public class Jugador {
     @Id
     @GeneratedValue
@@ -27,12 +29,11 @@ public class Jugador {
     @Max(value =34, message = "El jugador es un viejo choto, que se retire")
     private Integer edad;
 
-    @ManyToOne()
-    @JoinColumn(name = "equipo_id", referencedColumnName = "id")
+    @ManyToMany(mappedBy = "jugadores")
     @JsonIgnore
-    private Equipo equipo;
+    private List<Equipo> equipos;
 
-    /*public void setEquipo(Equipo e) {
-        equipo = e;
-    }*/
+    public void setEquipo(Equipo equipo) {
+        equipos.add(equipo);
+    }
 }

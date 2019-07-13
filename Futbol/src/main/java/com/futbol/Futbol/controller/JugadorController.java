@@ -40,10 +40,10 @@ public class JugadorController {
     }
 
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    /*public void delete(@PathVariable Integer id) {
         Jugador jugador = jugadorRepository.findById(id)
                 .orElseThrow(() -> new HttpClientErrorException(HttpStatus.BAD_REQUEST, String.format("No exsiste el jugador con el id: ", id)));
-        Equipo equipo = equipoRepository.findById(jugador.getEquipo().getId())
+        Equipo equipo = equipoRepository.findById(jugador.getEquipos().getId())
                 .orElseThrow(() -> new HttpClientErrorException(HttpStatus.BAD_REQUEST, String.format("No exsiste el equipo que tenga un jugador con este id: ", id)));
         List<Jugador> jugadores = equipo.getJugadores();
         jugadores = jugadores.stream()
@@ -52,7 +52,7 @@ public class JugadorController {
         equipo.setJugadores(jugadores);
         equipoRepository.save(equipo);
         jugadorRepository.delete(jugador);
-    }
+    }*/
 
     @GetMapping("/obtener/{idJugador}")
     public JugadorDTO getById(@PathVariable final Integer idJugador) {
